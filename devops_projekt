@@ -1,0 +1,7 @@
+echo "#devops_projektHunt" >> README.ad
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git add https://github.com/henrihunt4167/devops_projekt-Hunt/new/main
+git push -u origin main
